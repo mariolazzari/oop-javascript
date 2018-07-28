@@ -1,0 +1,23 @@
+{
+  "name": "oop-javascript",
+  "version": "1.0.0",
+  "description": "\"# oop-javascript\"",
+  "main": "01_intro.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariolazzari/oop-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariolazzari/oop-javascript/issues"
+  },
+  "homepage": "https://github.com/mariolazzari/oop-javascript#readme"
+}
